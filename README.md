@@ -1,6 +1,6 @@
-# Hive
+# Auroracoin-mac
 
-Hive is a user-friendly Bitcoin wallet app for OSX.
+Auroracoin-mac is a user-friendly auroracoin wallet app for OSX.
 
 ![](http://i.imgur.com/p5VoeND.png)
 
